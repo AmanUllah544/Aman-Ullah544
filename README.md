@@ -52,4 +52,4 @@ My goal is to become a professional AI and Machine Learning Engineer by building
 ## Connect with Me
 
 - GitHub: https://github.com/AmanUllah544
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/aman-ullah-5593b22b9/
